@@ -1,1 +1,1 @@
-Hi there is is my readme
+Hi there, this is who I am
