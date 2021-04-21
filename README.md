@@ -147,5 +147,5 @@ AISSE. (Class X) from Assembly of God Church with 76.67 % aggregate. Passing dat
 - Struts 1.1, JSF, Flex & AS 
 - JBoss Netty
 - IBM Websphere tools : WSAD, WID, WPS,RAD
-• JBoss 4.2.1/6.1.0/AS 7.0, Tomcat, GlassFish, Sun App Server, Weblogic App Server 12C, 8.1 
+• JBoss 4.2.1/6.1.0/AS 7.0, Tomcat, GlassFish, Sun App Server, Weblogic App Server 12C 
 - Oracle 9i, Oracle 10g, Postgresql  
