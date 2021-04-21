@@ -58,3 +58,36 @@ docker containers and using helm configurations we orchestrate the deployment of
 - from code to prod (Multiple prod deployments a day)  
 - Jenkins CI/CD
 
+## LEAD ENGINEER, INGENICO E-PAYMENTS, HOOFDDORP, THE NETHERLANDS — MARCH 2016- June 2019
+
+Building global full Payment Service Platform (PSP) and associated customer facing services.
+
+- Lead developer and solution architect for our front end edge services to which merchants interface directly 
+contributing both in terms of architectural and design decisions along with development
+- Building testing patterns for APIs in Spring boot and standalone.
+- Refining stories from business to solution
+- Mentoring team, as in helping with knowledge gaps and technical solutions.
+- Optimising SCRUM ceremonies for efficient time boxing and utilisation of development capacity.
+- Paving way for CI using proper GIt branching strategy. 
+- Automating DEV/TEST environment using Jenkins and AWS EC2 enabling high performing agile team.
+- Java chapter lead of the organisation, proposed ideas to foster an innovation driven culture and accepted by R&D department.
+- Successfully set-up a distributed scrum team with Agile practices to deliver a key business value for our merchants in terms of their credit risk scoring.
+- Rolled out re-factored integration between our platform and PayPal as many functionalities were missing in the current integration and merchants 
+were waiting for new features of PayPal.
+- Helped solve major performance bottle neck of the platform for a very large merchant.
+- Improved the quality of the code through proper coaching and correct usability of OOP practices.
+- Challenged a lot of status quo to bring in desired changes in terms of agile practices like proper utilisation of JIRA, kind of details to put in types of ticket. 
+
+## SR JAVA ENGINEER, CLEARSTREAM BANKING, LUXEMBOURG — MAY 2015-FEB 2016
+
+The project is about consolidation of post trade settlement services as a result of TARGET2 Securities implementation by ECB. 
+
+- Wrote the solution to customer's RFP along with couple of other architects
+- Key inputs to the architecture document
+- Designing key application components
+- Back-end business flow de-mystification
+- Writing SQLs and data base analysis (based on SWIFT model )
+- Coding in Java using the proprietary framework
+- Discussing with functional analysts and customer team to clarify things functionally and technically.
+- Responsible for technical delivery of the application
+- Co-ordinating with my offshore team to remove their hurdles.
