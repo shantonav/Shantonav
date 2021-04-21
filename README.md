@@ -4,7 +4,7 @@ https://www.linkedin.com/in/shantonav
 https://github.com/shantonav/  
 Den Haag 
 
-#Profile
+# Profile
 
 T-shaped software engineer/architect and an ardent agile practitioner with 17 years of industry experience in developing 
 enterprise solutions for domains like retail and hospitality, banking, cards and payments, telecom and healthcare.   
@@ -12,7 +12,7 @@ Always taking a fail-first approach to solutions. I am originally from India , l
 
 
 
-#Skills
+# Skills
 
 - Practicing pull leadership
 - Agile and OOP practitioner
@@ -27,7 +27,7 @@ Always taking a fail-first approach to solutions. I am originally from India , l
 - Building competencies and nurturing talent through trainings and mentoring
 - Spearheading technical capabilities
 
-#Certifications
+# Certifications
 
 Kubernetes Certified Administrator (CKA) - WIP
 How Google does machine learning : https://www.coursera.org/account/accomplishments/verify/ FG3P7Z3QALC5 (2019)  
