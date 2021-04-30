@@ -29,7 +29,7 @@ Always taking a fail-first approach to solutions. I am originally from India , l
 
 # Certifications
 
-Kubernetes Certified Administrator (CKA) - WIP
+Kubernetes Certified Administrator (CKA) - WIP  
 [How Google does machine learning](https://www.coursera.org/account/accomplishments/verify/FG3P7Z3QALC5) (2019)  
 [Launching into machine learning](https://www.coursera.org/account/accomplishments/verify/A859VUL63JQG) (2019)  
 Certified Scrum Master – 2013 from Scrum alliance: Certificant ID: 295513, re-certified - 2017 from [scrum.org](https://www.scrum.org/user/220776)  
