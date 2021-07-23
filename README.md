@@ -42,7 +42,17 @@ Dutch _'Inburguring'_
 
 # Experiences
 
-Lead engineer at BillingHouse , Den Haag : from July 2019  
+Principal Architect at Ximedes: from July 2021
+
+Architecting and solution of intuitive merchant on-boarding solution.
+
+- Decoupled architecture
+- kotlin + Spring boot
+- Angular (MFE)
+- Camunda BPM
+- Docker
+
+Lead engineer at BillingHouse , Den Haag : from July 2019  to June 2021
 
 We build billing systems based on open source Jbilling (grails based app) platform and provide the solution as SaaS for
 any domain: EV charging , utility, logistics  tc.  We build Java Apps ( micro-services) with Postgresql and RabbitMQ which are packaged in shippable 
