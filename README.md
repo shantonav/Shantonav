@@ -6,7 +6,7 @@ Den Haag
 
 # Profile
 
-T-shaped software engineer/architect and an ardent agile practitioner with 17 years of industry experience in developing 
+Solution architect and an ardent agile practitioner with 17 years of industry experience in developing 
 enterprise solutions for domains like retail and hospitality, banking, cards and payments, telecom and healthcare.   
 Always taking a fail-first approach to solutions. I am originally from India , living in the Netherlands for 5 years now.  
 
