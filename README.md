@@ -1,4 +1,3 @@
-![Shantonav profile](/profile.jpeg "Shantonav profile")
 
 0626525304  
 shantonav.sen@gmail.com  
