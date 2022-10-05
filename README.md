@@ -45,7 +45,7 @@ Dutch _'Inburguring'_
 
 ## Principal Architect at Ximedes: from July 2021
 
-Architecting and solution of intuitive merchant on-boarding solution.
+Architecting and solution of intuitive merchant self on-boarding solution.
 
 - Decoupled architecture
 - kotlin + Spring boot
