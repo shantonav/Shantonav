@@ -3,7 +3,7 @@
 shantonav.sen@gmail.com  
 [#in](https://www.linkedin.com/in/shantonav)  
 [github](https://github.com/shantonav/)  
-Den Haag 
+Voorburg 
 
 # Profile
 
