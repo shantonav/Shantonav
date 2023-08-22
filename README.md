@@ -50,6 +50,7 @@ Dutch _'Inburguring'_
 Architecting and solution of self leasing platform.
 
 - Transformational lead engineer
+- Creating high-level technical designs
 - Define tech landscape tailored to business
 - Across organisation leadership
 - Part product owner
@@ -61,6 +62,9 @@ Architecting and solution of self leasing platform.
   
 Architecting and solution of intuitive merchant self on-boarding solution.
 
+- Solution architect
+- People leader
+- Pivot for the customer and team
 - Decoupled architecture
 - kotlin + Spring boot
 - Angular (MFE)
