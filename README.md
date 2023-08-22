@@ -15,7 +15,8 @@ Always taking a fail-first approach to solutions. I am originally from India , l
 
 # Skills
 
-- Practicing pull leadership
+- Practicing people leadership
+- Accelerating progress
 - Agile and OOP practitioner
 - Providing solution architecture and design
 - Speeding development lifecycle using stubs 
@@ -45,6 +46,18 @@ Dutch _'Inburguring'_
 
 ## Principal Architect at Ximedes: from July 2021
 
+Architecting and solution of self leasing platform.
+
+- Transformational lead engineer
+- Define tech landscape tailored to business
+- Across organisation leadership
+- Part product owner
+- IT risk accessment
+- Helping squad accelerate
+- Microservice architecture
+- Re-usable process modeling using proprietary framework 
+- Custom Spring boot 3 framework + JDK 17
+  
 Architecting and solution of intuitive merchant self on-boarding solution.
 
 - Decoupled architecture
