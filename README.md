@@ -11,7 +11,7 @@ Solution architect and an ardent agile practitioner with 17 years of industry ex
 enterprise solutions for domains like retail and hospitality, banking, cards and payments, telecom and healthcare.   
 Always challenging myself to think simple in terms of the customer. A people person, rallying them towards short term (and in short iterations)
 definitive objectives to meet the larger strategic goal. Do not believe in coaching developers to be better, but how to work within a team
-to achieve realistic goals. Proud of my India roots which help me shape who I am personally and professionally. 
+to achieve realistic goals. Proud of my Indian roots which help me shape who I am personally and professionally. 
 
 
 # Skills
