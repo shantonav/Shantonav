@@ -9,7 +9,9 @@ Voorburg
 
 Solution architect and an ardent agile practitioner with 17 years of industry experience in developing 
 enterprise solutions for domains like retail and hospitality, banking, cards and payments, telecom and healthcare.   
-Always taking a fail-first approach to solutions. I am originally from India , living in the Netherlands for 5 years now.  
+Always challenging myself to think simple in terms of the customer. A people person, rallying them towards short term (and in short iterations)
+definitive objectives to meet the larger strategic goal. Do not believe in coaching developers to be better, but how to work within a team
+to achieve realistic goals.
 
 
 
